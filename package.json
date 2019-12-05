@@ -1,0 +1,22 @@
+{
+  "name": "react-admin-advanced-recipes-create-edit-from-list",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "query-string": "6.1.0",
+    "ra-data-fakerest": "2.6.0",
+    "react": "16.3.2",
+    "react-admin": "2.6.1",
+    "react-dom": "16.3.2",
+    "react-scripts": "1.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
